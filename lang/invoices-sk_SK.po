@@ -1,0 +1,349 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-09-25 14:45+0200\n"
+"PO-Revision-Date: 2018-09-25 14:47+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/class.uctoplusInvoice.php:27
+#: svn-repo/trunk/classes/class.uctoplusInvoice.php:27
+msgid "Order id not valid. Order Id : "
+msgstr "Číslo objednávky nieje správne. Číslo objednávky :"
+
+#: classes/class.uctoplusInvoice.php:33
+#: svn-repo/trunk/classes/class.uctoplusInvoice.php:33
+msgid "Could not instantiate Woocommerce order. Order Id : "
+msgstr ""
+"Nebolo možné vytvoriť objekt woocommerce objednávky. Číslo objednávky :"
+
+#: classes/class.uctoplusInvoice.php:447
+#: svn-repo/trunk/classes/class.uctoplusInvoice.php:446
+msgid ""
+"Failed to convert array to json, please contact us at helpdesk@uctoplus.sk with "
+"content of this error : "
+msgstr ""
+
+#: classes/class.uctoplusInvoice.php:475
+#: svn-repo/trunk/classes/class.uctoplusInvoice.php:474
+msgid "Účto+ response not valid. Účto+ response : "
+msgstr "Odpoveď od Účto+ nieje validná. Účto+ odpoveď :"
+
+#: classes/class.uctoplusInvoice.php:494
+#: svn-repo/trunk/classes/class.uctoplusInvoice.php:493
+msgid "General error"
+msgstr "Neočakávaný problém"
+
+#: classes/class.uctoplusInvoice.php:498
+#: svn-repo/trunk/classes/class.uctoplusInvoice.php:497
+msgid "License expired"
+msgstr "Vypršaná licencia"
+
+#: classes/class.uctoplusInvoice.php:507
+#: svn-repo/trunk/classes/class.uctoplusInvoice.php:506
+msgid "Invalid request with error : "
+msgstr "Neplatná požiadavka s errorom :"
+
+#: classes/class.uctoplusInvoice.php:514
+#: svn-repo/trunk/classes/class.uctoplusInvoice.php:513
+msgid ""
+"Unable to connect with Účto+ system, please check your API number in plugin "
+"options"
+msgstr ""
+"Nepodarilo sa spojiť s Účto+ systémom, prosím skontrolujte číslo API v "
+"nastaveniach pluginu"
+
+#: classes/class.uctoplusInvoice.php:526
+#: svn-repo/trunk/classes/class.uctoplusInvoice.php:525
+msgid "Účto+ problem : Can not parse data returned from Uctoplus"
+msgstr "Účto+ problém : Nebolo možné spracovať dáta vrátené od Uctoplus"
+
+#: classes/class.uctoplusInvoice.php:532
+#: svn-repo/trunk/classes/class.uctoplusInvoice.php:531
+msgid "Účto+ problem : Unable to get invoice document URL"
+msgstr "Účto+ problém : Nebolo možné získať pdf faktúry"
+
+#: classes/class.uctoplusInvoice.php:539
+#: svn-repo/trunk/classes/class.uctoplusInvoice.php:538
+msgid "Účto+ problem : Can not get invoice number from URL"
+msgstr "Účto+ problém : Nebolo možné získať pdf faktúry"
+
+#: classes/class.uctoplusInvoicesAdmin.php:32
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:32
+msgid "Download invoice PDF"
+msgstr "Stiahnuť PDF faktúry"
+
+#: classes/class.uctoplusInvoicesAdmin.php:81
+#: classes/class.uctoplusInvoicesAdmin.php:82
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:80
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:81
+msgid "Účto+ invoices"
+msgstr "Účto+ invoices"
+
+#: classes/class.uctoplusInvoicesAdmin.php:155
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:151
+msgid "Basic settings"
+msgstr "Základné nastavenia"
+
+#: classes/class.uctoplusInvoicesAdmin.php:162
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:158
+msgid "Sender settings"
+msgstr "Nastavenia odosielateľa"
+
+#: classes/class.uctoplusInvoicesAdmin.php:168
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:164
+msgid "Invoice settings"
+msgstr "Nastavenia fakturácie"
+
+#: classes/class.uctoplusInvoicesAdmin.php:175
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:171
+msgid "Účto+ API Key"
+msgstr "Účto+ API Kľúč"
+
+#: classes/class.uctoplusInvoicesAdmin.php:182
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:178
+msgid "Sender name"
+msgstr "Meno odosielateľa"
+
+#: classes/class.uctoplusInvoicesAdmin.php:189
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:185
+msgid "Sender registration id"
+msgstr "IČO odosielateľa"
+
+#: classes/class.uctoplusInvoicesAdmin.php:196
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:192
+msgid "Sender registration court"
+msgstr "Okresný súd odosielateľa"
+
+#: classes/class.uctoplusInvoicesAdmin.php:203
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:199
+msgid "Sender VAT id"
+msgstr "IČ DPH odosielateľa"
+
+#: classes/class.uctoplusInvoicesAdmin.php:210
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:206
+msgid "Sender tax id"
+msgstr "DIČ odosielateľa"
+
+#: classes/class.uctoplusInvoicesAdmin.php:217
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:213
+msgid "Sender street"
+msgstr "Ulica odosielateľa"
+
+#: classes/class.uctoplusInvoicesAdmin.php:224
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:220
+msgid "Sender postcode"
+msgstr "PSČ odosielateľa"
+
+#: classes/class.uctoplusInvoicesAdmin.php:231
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:227
+msgid "Sender town"
+msgstr "Mesto odosielateľa"
+
+#: classes/class.uctoplusInvoicesAdmin.php:238
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:234
+msgid "Sender Country"
+msgstr "Krajina odosielateľa"
+
+#: classes/class.uctoplusInvoicesAdmin.php:245
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:241
+msgid "Sender bank account"
+msgstr "Bankový účet odosielateľa"
+
+#: classes/class.uctoplusInvoicesAdmin.php:252
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:248
+msgid "Sender bank IBAN"
+msgstr "IBAN odosielateľa"
+
+#: classes/class.uctoplusInvoicesAdmin.php:259
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:255
+msgid "Sender bank SWIFT"
+msgstr "SWIFT kód odosielateľa"
+
+#: classes/class.uctoplusInvoicesAdmin.php:266
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:262
+msgid "Sender contact name"
+msgstr "Kontaktné meno odosielateľa"
+
+#: classes/class.uctoplusInvoicesAdmin.php:273
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:269
+msgid "Sender phone"
+msgstr "Tel. číslo odosielateľa"
+
+#: classes/class.uctoplusInvoicesAdmin.php:280
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:276
+msgid "Sender email"
+msgstr "Email odosielateľa"
+
+#: classes/class.uctoplusInvoicesAdmin.php:287
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:283
+msgid "Sender web"
+msgstr "Webová stránka odosielateľa"
+
+#: classes/class.uctoplusInvoicesAdmin.php:301
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:297
+msgid "Due date"
+msgstr "Dátum splatnosti"
+
+#: classes/class.uctoplusInvoicesAdmin.php:309
+msgid "Automatic generation"
+msgstr "Automatické generovanie"
+
+#: classes/class.uctoplusInvoicesAdmin.php:317
+msgid "Due action"
+msgstr "Status objednávky"
+
+#: classes/class.uctoplusInvoicesAdmin.php:324
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:304
+msgid "Opening text"
+msgstr "Otvárací text"
+
+#: classes/class.uctoplusInvoicesAdmin.php:331
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:311
+msgid "Closing text"
+msgstr "Ukončovací text"
+
+#: classes/class.uctoplusInvoicesAdmin.php:338
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:318
+msgid "Invoice numbering ype"
+msgstr "Formát číslovania faktúr"
+
+#: classes/class.uctoplusInvoicesAdmin.php:345
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:325
+msgid "Invoice numbering format"
+msgstr "Formát číslovania faktúr"
+
+#: classes/class.uctoplusInvoicesAdmin.php:355
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:335
+msgid "Next invoice number"
+msgstr "Číslo ďalšej faktúry"
+
+#: classes/class.uctoplusInvoicesAdmin.php:365
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:345
+msgid "Účto+ invoice numbering list"
+msgstr "Formát číslovania faktúr"
+
+#: classes/class.uctoplusInvoicesAdmin.php:375
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:355
+msgid "Item description in the invoice"
+msgstr "Popis produktu na faktúre"
+
+#: classes/class.uctoplusInvoicesAdmin.php:382
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:362
+msgid "DPH"
+msgstr "DPH"
+
+#: classes/class.uctoplusInvoicesAdmin.php:512
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:484
+msgid "Enter your settings below:"
+msgstr "Zadajte svoje nastavenia :"
+
+#: classes/class.uctoplusInvoicesAdmin.php:666
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:637
+msgid "Leave empty to use default woocommerce taxation settings."
+msgstr "Ponechajte prázdne pre použitie woocommerce nastavení dane :"
+
+#: classes/class.uctoplusInvoicesAdmin.php:688
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:658
+msgid "Number of days to be added as due date"
+msgstr "Počet dní pre prípočítanie do dátumu splatnosti"
+
+#: classes/class.uctoplusInvoicesAdmin.php:727
+msgid "When should be invoice automatically generated"
+msgstr "Kedy by mala byť faktúra automaticky generovaná"
+
+#: classes/class.uctoplusInvoicesAdmin.php:739
+msgid "Generate invoice after status change"
+msgstr "Generovať faktúru po zmene stavu"
+
+#: classes/class.uctoplusInvoicesAdmin.php:794
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:709
+msgid "Účto+ numbering (preferred)"
+msgstr "Formát číslovania faktúr (odporúčané)"
+
+#: classes/class.uctoplusInvoicesAdmin.php:798
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:713
+msgid "Custom plugin numbering"
+msgstr "Vlastné číslovanie"
+
+#: classes/class.uctoplusInvoicesAdmin.php:823
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:737
+msgid ""
+"Format of invoices numbering, first field is prefix (leave blank for no "
+"prefix), second field is format of the invoice number"
+msgstr ""
+"Formát číslovania faktúr, prvé pole označuje prefix (ponechať prázdne pre "
+"žiadny prefix), druhé pole označuje formát číslovania faktúr"
+
+#: classes/class.uctoplusInvoicesAdmin.php:835
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:748
+msgid "Variation parameters"
+msgstr "Parametre variácie"
+
+#: classes/class.uctoplusInvoicesAdmin.php:840
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:753
+msgid "Product description"
+msgstr "Popis produktu"
+
+#: classes/class.uctoplusInvoicesAdmin.php:845
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:758
+msgid "Empty"
+msgstr "Prázdne"
+
+#: classes/class.uctoplusInvoicesAdmin.php:847
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:760
+msgid "Item description displayed in the invoice"
+msgstr "Popis produktu na faktúre"
+
+#: classes/class.uctoplusInvoicesAdmin.php:861
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:773
+msgid ""
+"Number of next invoice to be generated (use only number, not format. If next "
+"invoice should be in format RRRRXXXX 2020025 type in just \"25\")"
+msgstr ""
+"Číslo ďaľšej faktúry (použite iba číslo bez fotmátu. Ak chcete aby číslo "
+"ďaľšej faktúry vo formáte RRRRXXXX bolo 20200025 vpíšte iba \"25\")"
+
+#: classes/class.uctoplusInvoicesAdmin.php:864
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:776
+msgid ""
+"If there is existing invoice with specified number in Uctoplus allready, it "
+"will be overwritten!"
+msgstr "Pokial sa v Účto+ už nachádza faktúra s týmto číslom, bude preísaná!"
+
+#: classes/class.uctoplusInvoicesAdmin.php:892
+#: svn-repo/trunk/classes/class.uctoplusInvoicesAdmin.php:802
+msgid ""
+"Assign number list to each country, leave default value to use main "
+"invoicing list"
+msgstr ""
+"Priraďte rad pre každú krajinu, ponechajte prázdne pre používanie "
+"prednastaveného číselného radu"
+
+#: classes/class.uctoplusInvoicesProcess.php:107
+#: classes/class.uctoplusInvoicesProcess.php:108
+#: svn-repo/trunk/classes/class.uctoplusInvoicesProcess.php:60
+#: svn-repo/trunk/classes/class.uctoplusInvoicesProcess.php:61
+msgid "Export orders to Účto+"
+msgstr "Exportovať faktúry do Účto+"
+
+#: classes/class.uctoplusInvoicesProcess.php:193
+#: svn-repo/trunk/classes/class.uctoplusInvoicesProcess.php:146
+#, php-format
+msgid "Order no. %s Sucessfully generated"
+msgstr "Faktúra objednávky s č. %s úspešne vygenerovaná"
+
+#: classes/class.uctoplusInvoicesProcess.php:201
+#: svn-repo/trunk/classes/class.uctoplusInvoicesProcess.php:154
+#, php-format
+msgid "Order no. %s Was not generated. Error : %s"
+msgstr "Faktúra objednávky s č. %s nebola vygenerovaná s problémom : %s"
